@@ -61,8 +61,3 @@ The analysis is conducted in the Jupyter Notebook **`breast_cancer_svm.ipynb`** 
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-link>
-   cd <your-repo-name>
